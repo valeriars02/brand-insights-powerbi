@@ -53,4 +53,4 @@ These are descriptive differences between average scores. They do not establish 
 
 ## Project status
 
-The exploratory analysis, CSV export, and Power BI report are complete.
+The exploratory analysis, XLSX export, and Power BI report are complete.
